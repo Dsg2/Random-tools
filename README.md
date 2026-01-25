@@ -1,4 +1,6 @@
 # Random-tools
-collection of random maybe useful stuff.
+Collection of useful stuff.
 
-Everything can be downloaded right here, and no administrative rights is needed to use the tools.
+Everyone should have them on their computer.
+
+These are all portable, and not updated to the latest versions.
